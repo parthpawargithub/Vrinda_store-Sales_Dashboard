@@ -142,7 +142,7 @@ Vrinda-Store-Analysis/
 
 ## 👤 Author
 
-**Parth** — B.E. Computer Science (AI/ML), APSIT, University of Mumbai  
+**Parth Pawar** — B.E. Computer Science (Data Science), APSIT, University of Mumbai  
 Semester 6 | Data Analytics & Visualization Project
 
 ---
